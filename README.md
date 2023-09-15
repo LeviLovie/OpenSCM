@@ -1,2 +1,2 @@
 # OpenSCM
-Open Secure Client Messanger
+Open Secure Client Messenger
